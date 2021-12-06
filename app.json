@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "questionaire",
+    "slug": "questionaire",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "questionaire"
+}
